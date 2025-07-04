@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hi-cat-web.github.io/static/css/main.459d0288.css",
+    "main.js": "/hi-cat-web.github.io/static/js/main.a6cf0162.js",
+    "static/js/453.788af3e3.chunk.js": "/hi-cat-web.github.io/static/js/453.788af3e3.chunk.js",
+    "index.html": "/hi-cat-web.github.io/index.html",
+    "main.459d0288.css.map": "/hi-cat-web.github.io/static/css/main.459d0288.css.map",
+    "main.a6cf0162.js.map": "/hi-cat-web.github.io/static/js/main.a6cf0162.js.map",
+    "453.788af3e3.chunk.js.map": "/hi-cat-web.github.io/static/js/453.788af3e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.459d0288.css",
+    "static/js/main.a6cf0162.js"
+  ]
+}
